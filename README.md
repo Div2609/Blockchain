@@ -3,9 +3,9 @@
 
 A FullStack Ecommerce App built with Django, Blockchain and ReactJs.
 
-With upcoming technology, blockchain is one such way to prove the ownership of the customers.
-For this, physical warranty systems need to be replaced by digital warranty systems using NFT's.
-Our website is capable of tracking all the transactions done using metamask and 
+In today's progressive world blockchain is on verge of becoming a way to prove the ownership of the customers.
+For this, physical warranty systems there is dire need of being replaced by digital warranty systems using NFT's.
+So in order to maintan the same our website is very much capable of tracking all the transactions done using metamask and 
 on resale, the product’s ownership is updated both in the database and contract.
 We have also updated the traditional repairment and return facilities using blockchain authentication.For more engagement of customers the website is also equipped with gamification in terms of warranty extension which can be redeemed as gifts.
 Deployed our contract using polygon blockchain.
@@ -104,4 +104,4 @@ Start the server
 
 https://github.com/sneha-16hub/
 
-https://github.com/Anirudh1331/
+
